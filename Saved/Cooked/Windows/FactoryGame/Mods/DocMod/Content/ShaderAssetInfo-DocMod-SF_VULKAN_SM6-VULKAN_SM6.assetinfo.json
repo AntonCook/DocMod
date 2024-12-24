@@ -1,0 +1,11 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "216B09464336BC17AEB48C0D71F2A24CF11554AC",
+			"Assets": [
+				"/DocMod/Items/DocItem/MI_DocItem"
+			]
+		}
+	]
+}
